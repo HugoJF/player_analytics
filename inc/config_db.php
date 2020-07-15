@@ -4,12 +4,12 @@
 // You can specify multiple DBs. Don't forget to uncomment the array ;-) 
 $databases = array (
 	0 => array(
-		'database_name' => 'your_db_name',
-		'host'          => 'localhost',
-		'username'      => 'user',
-		'password'      => 'pass',
+		'database_name' => '',
+		'host'          => '',
+		'username'      => '',
+		'password'      => '',
 		'port'          => 3306,
-		'friendlyName'  => 'Default DB',
+		'friendlyName'  => '',
 	),
 	// 1 => array(
 	// 	'database_name' => 'your_db_name',
